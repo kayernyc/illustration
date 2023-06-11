@@ -11,5 +11,8 @@
   },
   "dependencies": {
     "astro": "^2.0.14"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0"
   }
 }
